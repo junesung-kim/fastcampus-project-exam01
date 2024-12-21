@@ -8,5 +8,5 @@ import jakarta.persistence.Id;
 public class Member {
     @Id
     @GeneratedValue
-    private String id;//aaa
+    private String id;//aaah
 }
